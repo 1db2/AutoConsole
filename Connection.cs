@@ -20,7 +20,7 @@ namespace AutoConsole
         public Connection()
         {
             Host = "127.0.0.1";
-            Database = "Cars";
+            Database = "Auto";
             User = "root";
             Password = "";
 
