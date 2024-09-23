@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AutoConsole
 {
+
     internal class Program
     {
         static void Main(string[] args)
