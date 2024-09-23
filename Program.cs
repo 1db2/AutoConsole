@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AutoConsole
 {
-
     internal class Program
     {
+        public static List<object> carList = new List<object>();
         static void Main(string[] args)
         {
 
